@@ -1,0 +1,8 @@
+#App {
+  background:linear-gradient(to right top, #868e96, #767e86, #676e76, #585f66, #495057);
+  /* background-color: #676e76; */
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
